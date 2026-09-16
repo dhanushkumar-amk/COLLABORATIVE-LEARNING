@@ -7,3 +7,9 @@
 # Debug files
 *.pdb
 *.ilk
+
+#c files
+
+*.clangd
+*makefile
+
